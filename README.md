@@ -1,7 +1,3 @@
-Here's a professional and formatted README for your GitHub repository:
-
----
-
 # Home Lab with Active Directory using Oracle Virtual Box
 
 This project sets up a home lab environment using Oracle VirtualBox, running Microsoft Windows Server 2019 as a Domain Controller (DC) with Active Directory (AD) and a Windows 10 client. The domain controller manages both internet access and the internal network. The setup includes configuring a private network, installing key services, and creating multiple users via PowerShell.
