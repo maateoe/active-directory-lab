@@ -18,7 +18,7 @@ This lab consists of:
 ### Step-by-Step Installation
 
 1. **Install Microsoft Windows Server 2019 on the Virtual Machine**
-   - Note: Although running a server OS on a virtualized environment may have vulnerabilities, this setup is for learning purposes.
+   - Note: Although running an outdated server OS on may have vulnerabilities, this setup is for learning purposes.
 
 2. **Identify Network Interface Cards (NICs)**
    - One NIC for external internet access and another for the private internal network.
