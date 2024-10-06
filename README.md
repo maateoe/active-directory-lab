@@ -59,12 +59,4 @@ This lab consists of:
 
 ## Diagram
 
-(Add your network topology diagram here)
-
-## Conclusion
-
-This lab demonstrates the setup of a basic domain environment with Windows Server 2019, Active Directory, and client machines, simulating a real-world IT infrastructure. It can be expanded to include more advanced configurations like Group Policy, Certificate Services, and more.
-
----
-
-This README provides a professional summary, guides the user through the setup process, and outlines key configurations for your home lab.
+![alt text]([https://imgur.com/a/mH44GJL])
