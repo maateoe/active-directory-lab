@@ -59,4 +59,4 @@ This lab consists of:
 
 ## Diagram
 
-![alt text]([https://imgur.com/a/mH44GJL])
+![alt text](https://github.com/maateoe/active-directory-lab/blob/main/.Diagram_AD.png)
