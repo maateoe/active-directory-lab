@@ -52,7 +52,7 @@ This lab consists of:
     - Connect the client to the internal network and verify that it can obtain an IP address from the DHCP server.
 
 11. **Add the Client to the Domain**
-    - Assign a user account to the client and verify that it appears in the `Computers` section of `AD Users and Computers`.
+    - Assign a user account to the client and verify that it appears in `Address Leases`.
 
 12. **Verification**
     - Ensure that the client is correctly connected to the domain and can access the internet.
