@@ -136,6 +136,3 @@
         </li>
     </ol>
 
-  <h2>Diagram</h2>
-
-  <p>(Add your network topology diagram here)</p>
